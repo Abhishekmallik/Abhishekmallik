@@ -1,4 +1,4 @@
-## Hi there, I'm Abhishek Mallik 👋
+## Hi there, I'm Abhishek Mallik <img src="https://raw.githubusercontent.com/Abhishekmallik/Abhishekmallik/master/wave.gif" width="30px">
 <!-- ### Hi there 👋 -->
 
 This is my introductory repository!!!
