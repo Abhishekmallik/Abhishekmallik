@@ -16,7 +16,7 @@ This is my introductory repository!!!
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/akshaaatt/Swarogya">
+<!-- <a href="https://github.com/akshaaatt/Swarogya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshaaatt&repo=Swarogya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
@@ -38,7 +38,7 @@ This is my introductory repository!!!
 
 <a href="https://github.com/Abhishekmallik/Malware-Classifier">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekmallik&repo=Malware-Classifier&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 
 ### Languages
 
