@@ -3,11 +3,12 @@
 
 This is my introductory repository!!!
 
+- 🔭 I’m currently working at Training & Placement cell at Delhi Technical University (DTU)
 - 🌱 I’m currently an undergraduate at Delhi Technical University, Delhi, India
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about React, Machine learning, Artificial intelligence, software development.
 
-<!-- - 🔭 I’m currently working on React, ML, 
+<!-- 
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
