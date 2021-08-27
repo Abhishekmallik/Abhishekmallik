@@ -16,6 +16,30 @@ This is my introductory repository!!!
 
 ## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/akshaaatt/Swarogya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshaaatt&repo=Swarogya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Abhishekmallik/AutoAI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekmallik&repo=AutoAI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Abhishekmallik/Cloud-Scheduling">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekmallik&repo=Cloud-Scheduling&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Abhishekmallik/Turing-Machine-based-Syllable-Splitter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekmallik&repo=Turing-Machine-based-Syllable-Splitter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Abhishekmallik/College-Management-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekmallik&repo=College-Management-System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Abhishekmallik/Malware-Classifier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekmallik&repo=Malware-Classifier&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 ### Languages
 
 [<img align="left" alt="C" width="26px" src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" />][c]
